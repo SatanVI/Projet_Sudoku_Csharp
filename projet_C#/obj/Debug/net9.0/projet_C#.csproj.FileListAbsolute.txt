@@ -1,0 +1,14 @@
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\bin\Debug\net9.0\projet_C#.exe
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\bin\Debug\net9.0\projet_C#.deps.json
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\bin\Debug\net9.0\projet_C#.runtimeconfig.json
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\bin\Debug\net9.0\projet_C#.dll
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\bin\Debug\net9.0\projet_C#.pdb
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\projet_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\projet_C#.AssemblyInfoInputs.cache
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\projet_C#.AssemblyInfo.cs
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\projet_C#.csproj.CoreCompileInputs.cache
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\projet_C#.dll
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\refint\projet_C#.dll
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\projet_C#.pdb
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\projet_C#.genruntimeconfig.cache
+C:\Users\alber\Documents\2-Projet B2\C#\projet_C#\obj\Debug\net9.0\ref\projet_C#.dll
